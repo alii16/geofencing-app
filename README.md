@@ -202,4 +202,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note:** Remember to create a `LICENSE` file in your repository if you choose the MIT license. You'll also need to replace placeholder URLs and usernames/repository names with your actual details.
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/e6b10e73-eed9-4487-b326-c6bc4673d34c)
+![image](https://github.com/user-attachments/assets/ce1b2f4f-ec34-4c69-9e1b-e1e33ffde25b)
+![image](https://github.com/user-attachments/assets/cd172aa3-b211-4845-80c8-382517f7e9ae)
+
+
