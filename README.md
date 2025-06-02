@@ -1,6 +1,6 @@
 # Geofence Web Application: Location-Based Notification System
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPOSITORY?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/alii16/geofencing-app?color=blue)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 📝 Overview
@@ -73,8 +73,8 @@ Follow these steps to set up and run the project on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git) # Replace with your actual repository URL
-    cd geofence-web-app # Or the name of your cloned directory
+    git clone [https://github.com/alii16/geofencing-app.git](https://github.com/alii16/geofencing-app.git) # Replace with your actual repository URL
+    cd geofence-app # Or the name of your cloned directory
     ```
 
 2.  **Serve Locally:**
